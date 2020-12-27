@@ -12,9 +12,6 @@
 # Boo
 A beautiful, clean, and responsive theme for Ghost.
 
-[![Boo](https://i.imgur.com/PmCehgV.jpg)](https://github.com/PoeticThemes/boo/releases/latest)
-<br><br>
-
 # 🚀 Installation
 1. Download the [latest version of Boo](https://github.com/PoeticThemes/boo/releases/latest).
 2. Log into your blog: **yourblog.ghost.io/ghost** [(Don't have Ghost?](https://ghost.org)).

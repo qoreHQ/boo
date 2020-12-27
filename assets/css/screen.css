@@ -1411,7 +1411,6 @@ figcaption {
     top: 3rem;
     right: 0;
     width: 140px;
-    display: none;
 }
 
 .post-footer .share a {
@@ -1877,7 +1876,6 @@ figcaption {
     font-size: 1rem;
     line-height: 1.75em;
     color: #9E9E9E;
-    display: none;
 }
 
 .site-footer a {
@@ -2121,7 +2119,6 @@ figcaption {
         border-width: 0;
         color: #2e2e2e;
         background: transparent;
-        display: none;
     }
 
     .menu-button .word {
